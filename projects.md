@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Bowerbird stuff
 
 ## SERC stuff
