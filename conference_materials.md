@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Conference Materials
 ---
 
 ## SICB 2023 poster
