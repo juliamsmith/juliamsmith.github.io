@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Julia M. Smith
-description: Graduate interested in ecology, evolution, behavior, and thermal physiology
+description: Ecology, behavior, and thermal physiology
 ---
 
 If you've arrived here I am so, so sorry. This website is a work in progress.
 
-PhD candidate in Biology at UW Seattle in the Buckley lab
+I am a PhD candidate in Biology at UW Seattle in the Buckley lab. I am interested in integrating quantitative and empirical methods to understand the ecological impacts of climate change. In the Buckley lab, I study grasshopper thermoregulatory behavior and energetics (see the field season picture on the left). The next step is to model how climate change may have affected behavior, energetics, and ultimately fitness over the past 70 years. I am also passionate about education (especially teaching quantitative methods in biology) and hope to get more involved in education research soon!
 
+Insert link to CV
