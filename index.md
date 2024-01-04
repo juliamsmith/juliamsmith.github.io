@@ -9,3 +9,5 @@ I am a PhD candidate in Biology at UW Seattle in the Buckley lab. I am intereste
 Email: smithju\[at\]uw.edu
 
 [CV](https://docs.google.com/document/d/1kO4mgnYhh9S3Qhj12ZD7qFq-nilpVQyyRWNjGkhHevs/edit?usp=sharing)
+
+![Julia](./Julia.png)
