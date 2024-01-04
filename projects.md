@@ -9,13 +9,13 @@ I study the thermal physiology and behavior of grasshopper populations along an 
 
 [Here](https://youtu.be/B1528-1AyW0) is a video of me laying out my planned dissertation work!
 
-The team: too many to list, but members of the labs of Lauren Buckley, Sean Schoville, and Caroline Williams, the broader project led by postdoc Monica Scheffer, and with invaluable help and experience from César Nufio
+The team: too many to list, but members of the labs of Lauren Buckley, Sean Schoville, and Caroline Williams, the broader project led by postdoc Monica Scheffer, and with invaluable help and experience from César Nufio. Read more about the overarching project [here](https://functionalresurveys.github.io/COgrasshoppers).
 
 ## Plant coexistence (Smithsonian Environmental Research Center, summer internship 2020)
 
 We studied native species that could potentially be used for restoration in a riparian buffer zone and how their growth and interactions were affected by soil nitrogen level. We conducted these experiments in our backyards due to the pandemic. 
 
-The team: Kimberly Komatsu, Amy Hruska, Skye Austin, Rachel Brennaman
+The team: Kimberly Komatsu, Amy Hruska, Skye Austin, Rachael Brennaman
 
 ## Bowerbird agent-based model (University of Chicago, undergrad)
 
